@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Netchanok Muaengkhot</h1>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/pxmpym/pxmpym/main/img/chipi-chipi-chapa-chapa.gif"  />
+  <img height="300" src="https://github.com/pxmpym/netchanok-profile/blob/main/img/chipi-chipi-chapa-chapa.gif?raw=true"  />
 </div>
 
 
