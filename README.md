@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning about  **software manual and automated testing**
+- 🌱 **Meow Meow**
 
 <p align="left">
 </p>
